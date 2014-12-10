@@ -1,0 +1,301 @@
+AWSTATS DATA FILE 6.0 (build 1.704)
+# If you remove this file, all statistics for date 2014-10 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1837                
+POS_TIME 2485                
+POS_VISITOR 7043                
+POS_DAY 7542                
+POS_DOMAIN 3134                
+POS_LOGIN 3366                
+POS_ROBOT 3521                
+POS_WORMS 3691                
+POS_EMAILSENDER 3822                
+POS_EMAILRECEIVER 3965                
+POS_SESSION 7654                
+POS_SIDER 7859                
+POS_FILETYPES 4100                
+POS_OS 4344                
+POS_BROWSER 4413                
+POS_SCREENSIZE 4487                
+POS_UNKNOWNREFERER 4561                
+POS_UNKNOWNREFERERBROWSER 4648                
+POS_ORIGIN 4730                
+POS_SEREFERRALS 4870                
+POS_PAGEREFS 5014                
+POS_SEARCHWORDS 6407                
+POS_KEYWORDS 6559                
+POS_MISC 2175                
+POS_ERRORS 6618                
+POS_CLUSTER 3222                
+POS_SIDER_404 6734                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of old records - Nb of new records - Nb of corrupted - Nb of dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20141002035301 4331 1157158 16047377355425
+FirstTime 0
+LastTime 20141002035301
+LastUpdate 20141002050021 4331 0 4331 0 0
+TotalVisits 14                  
+TotalUnique 9                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 9                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 9
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 23 312 22814815 0 0 0
+1 0 0 0 0 0 0
+2 4 65 4661448 3 11 295323
+3 8 68 119844 85 85 19040
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 1 1799
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 13 157 6790046 68 68 74593
+11 0 0 0 0 0 0
+12 6 99 2803347 40 40 8960
+13 48 691 14216884 113 113 164168
+14 35 436 12540661 30 30 6741
+15 0 0 0 0 0 0
+16 23 352 6723948 211 225 1698444
+17 25 393 11062980 1 1 224
+18 5 201 208171 0 0 0
+19 0 0 0 0 0 0
+20 11 451 300944 0 0 0
+21 4 159 4303400 1 1 224
+22 0 0 0 0 0 0
+23 18 145 7519753 201 225 50400
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 223 3529 94066241
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+googlebot 11 356259 20141001100605 0 
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+eot 11 562017 0 0
+css 854 8690714 0 0
+png 456 16556458 0 0
+pdf 1 64162 0 0
+woff 64 9984116 0 0
+php 98 3234197 0 0
+html 49 972514 0 0
+js 1800 15931253 0 0
+jpg 146 27664615 0 0
+gif 50 10406195 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 3
+macosx 329
+winnt 3199
+linux 1
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 2
+mozilla 741
+safari 2788
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 68 75
+From1 0 0
+From2 0 0
+From3 131 2891
+From4 24 563
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 22
+http://loopdijital.com/bilginsmm/index.php 31 515
+http://loopdijital.com/bilginsmm/ 21 459
+http://loopdijital.com/bilginsmm/_layout/css/iconfontcustom/icon-font-custom.css 19 19
+http://loopdijital.com/bilginsmm/_layout/css/fontawesome/font-awesome.min.css 19 19
+http://loopdijital.com/bilginsmm/pratikbilgiler.php 14 271
+http://loopdijital.com/bilginsmm/hizmetlerimiz.php 5 239
+http://loopdijital.com/bilginsmm/iletisim.php 5 118
+http://loopdijital.com/bilginsmm/hesaplar.php 3 483
+http://loopdijital.com/bilginsmm/mak1.php 3 242
+http://loopdijital.com/bilginsmm/hakkimizda.php 3 82
+http://loopdijital.com/bilginsmm/main.html 0 169
+http://loopdijital.com 0 47
+http://loopdijital.com/bilginsmm/_layout/css/elements.css 0 31
+http://loopdijital.com/bilginsmm/forms.php 1 1
+http://loopdijital.com/bilginsmm/_layout/js/revolutionslider/css/settings.css 0 21
+http://loopdijital.com/assets/css/custom.css 0 6
+http://loopdijital.com/bilginsmm/asgarigecimindirimi.php 1 1
+http://loopdijital.com/bilginsmm/mak2.php 2 81
+http://loopdijital.com/bilginsmm/_layout/js/revolutionslider/css/custom.css 0 22
+http://loopdijital.com/bilginsmm//main.html 1 14
+http://loopdijital.com/bilginsmm//index.php 2 50
+http://loopdijital.com/assets/fontastic/styles.css 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 769 172256
+206 15 1790195
+301 5 1206
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start of last visit date] - [Last page of last visit]
+# [Start of last visit date] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 9
+88.250.176.219 87 1760 38813721 20141002004157
+95.8.145.208 36 494 6876781 20141001144533
+85.104.101.91 35 524 19751754 20141001144308
+85.103.156.29 19 203 12174653 20141002003111
+92.45.123.146 13 157 6790046 20141001105629
+95.8.169.139 13 132 2815322 20141001135508
+5.47.219.108 8 126 2062672 20141002004152
+95.8.138.96 8 68 119844 20141002035301 20141002031659 /bilginsmm/main.html
+176.33.209.239 4 65 4661448 20141002024830
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20141001 188 3084 66470134 9
+20141002 35 445 27596107 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 4
+5mn-15mn 1
+15mn-30mn 1
+2mn-5mn 1
+30s-2mn 1
+0s-30s 4
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 31
+/bilginsmm/_layout/css/iconfontcustom/fonts/iconfontcustom.woff 31 7457300 1 2
+/bilginsmm/_layout/css/fontawesome/font/fontawesome-webfont.woff 30 2094000 2 1
+/bilginsmm/main.html 25 52234 3 2
+/bilginsmm/index.php 18 941461 0 1
+/bilginsmm/ 17 835796 4 0
+/bilginsmm/hesaplar.php 14 388121 1 0
+/bilginsmm/hizmetlerimiz.php 13 352781 0 0
+/bilginsmm/pratikbilgiler.php 10 276405 0 0
+/bilginsmm/hakkimizda.php 10 199680 0 1
+/bilginsmm/mak1.php 9 292524 0 0
+/bilginsmm/makale2.php 1 17573 0 1
+/ 2 59585 0 1
+/bilginsmm/_layout/css/fontawesome/font/fontawesome-webfont.woff 1 83760 0 1
+/bilginsmm/tasfiyeislemleri.php 1 52046 0 0
+/bilginsmm/index.php 1 53644 0 0
+/bilginsmm/haberler.php 7 118342 0 2
+/bilginsmm/main.html 1 3274 1 0
+/bilginsmm/mak3.php 1 31124 0 0
+/bilginsmm/_layout/css/iconfontcustom/fonts/iconfontcustom.woff 1 298292 0 0
+/bilginsmm/mak4.php 1 52345 0 0
+/bilginsmm/asgarigecimindirimi.php 1 28747 0 0
+/bilginsmm/mevzuat.php 1 22334 0 0
+/bilginsmm/indexeng.php 1 54207 0 0
+/bilginsmm/mak2.php 3 127872 0 0
+/assets/fontastic/fonts/apex.woff 1 50764 0 0
+/bilginsmm/_layout/css/fontawesome/font/fontawesome-webfont.eot 6 72449 0 0
+/bilginsmm/Download/other/MASAK-Zorunlulugu-hakkinda-alinan-yazi.pdf 1 64162 1 0
+/bilginsmm/forms.php 3 157305 0 0
+/bilginsmm/animasyondeneme.html 4 21625 0 1
+/bilginsmm/iletisim.php 3 67686 1 0
+/bilginsmm/_layout/css/iconfontcustom/fonts/iconfontcustom.eot 5 489568 0 0
+END_SIDER

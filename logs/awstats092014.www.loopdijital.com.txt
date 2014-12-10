@@ -1,0 +1,798 @@
+AWSTATS DATA FILE 6.0 (build 1.704)
+# If you remove this file, all statistics for date 2014-09 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1837                
+POS_TIME 2498                
+POS_VISITOR 20431               
+POS_DAY 26048               
+POS_DOMAIN 3401                
+POS_LOGIN 3637                
+POS_ROBOT 3792                
+POS_WORMS 4140                
+POS_EMAILSENDER 4271                
+POS_EMAILRECEIVER 4414                
+POS_SESSION 26823               
+POS_SIDER 27035               
+POS_FILETYPES 4549                
+POS_OS 4912                
+POS_BROWSER 5017                
+POS_SCREENSIZE 5151                
+POS_UNKNOWNREFERER 5225                
+POS_UNKNOWNREFERERBROWSER 6229                
+POS_ORIGIN 7016                
+POS_SEREFERRALS 7163                
+POS_PAGEREFS 7318                
+POS_SEARCHWORDS 15400               
+POS_KEYWORDS 15552               
+POS_MISC 2188                
+POS_ERRORS 15611               
+POS_CLUSTER 3493                
+POS_SIDER_404 15774               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of old records - Nb of new records - Nb of corrupted - Nb of dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20141001022200 6346 1813245 10478763922484
+FirstTime 20140902125021
+LastTime 20140930224939
+LastUpdate 20141001051321 6346 0 6345 0 0
+TotalVisits 216                 
+TotalUnique 132                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 134                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 9
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 2 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 144 2502 116331962 201 240 1851051
+1 24 292 23395352 344 428 2752506
+2 8 150 5118353 1 9 97250
+3 5 6 407253 29 48 370093
+4 1 1 0 13 27 125777
+5 0 0 0 12 14 478024
+6 0 0 0 14 14 240580
+7 1 1 61256 8 12 154236
+8 6 60 5578687 4 4 896
+9 12 170 15802594 30 30 244164
+10 7 124 7960592 68 81 18144
+11 29 420 33906416 160 162 157583
+12 30 501 50540765 69 77 369292
+13 30 534 37922953 20 20 181899
+14 159 1836 49281311 31 32 446066
+15 318 4032 90357669 205 246 1381191
+16 410 4647 165147317 836 889 8671275
+17 299 5330 244512660 637 659 1503420
+18 344 3847 108946428 2136 2246 3231431
+19 650 4034 125121469 1330 1368 570219
+20 578 6143 258281930 1279 1345 1358270
+21 489 3611 115184852 2098 2188 1656007
+22 327 3956 114871371 718 776 3537016
+23 321 4175 170949710 1102 1313 11585081
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 4192 46372 1739680900
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+googlebot 103 2907347 20140930004414 0 
+yandex 25 1495889 20140929063707 0 
+robot 6 221742 20140924233752 0 
+surveybot 2 118506 20140925071313 0 
+baiduspider 1 59585 20140926133505 0 
+crawl 1 58921 20140909121903 0 
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 16
+css 8503 120821413 0 0
+ttf 4 793728 0 0
+pptx 1 5972399 0 0
+woff 836 79103396 0 0
+php 2402 106883602 0 0
+html 847 32739008 0 0
+jpg 8872 659871123 0 0
+doc 2 86016 0 0
+xls 1 34816 0 0
+eot 10 698974 0 0
+png 7635 567023166 0 0
+aspx 3 7446 0 0
+cur 80 34288 0 0
+js 16595 163408669 0 0
+gif 575 2174615 0 0
+svg 6 28241 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 6
+macosx 2332
+winlong 2
+winxp 58
+winnt 42608
+Unknown 120
+linux 1252
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 7
+msie8.0 59
+nokia 55
+mozilla 1866
+netscape5.0 1
+Unknown 62
+msie10.0 127
+safari 44202
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 17
+SEOstats_2.1.0 20140926111127
+Twitterbot/1.0 20140930221818
+WinInet_Test 20140927011856
+- 20140911095615
+Mozilla/5.0_(compatible;_bingbot/2.0;__http://www.bing.com/bingbot.htm) 20140916105633
+WordPress/4.0;_http://loopdijital.com/bilgin 20140929201028
+PECL::HTTP/1.7.6_(PHP/5.3.3) 20140918013923
+wscheck.com/1.0.0_(_http://wscheck.com/) 20140926111127
+WhatWeb/0.4.8-dev 20140923232138
+www.osaicbt.com/Nutch-2.2.1 20140917184713
+BPImageWalker/2.0_(www.bdbrandprotect.com) 20140903104105
+Mozilla/5.0_(Windows_Phone_8.1;_ARM;_Trident/7.0;_Touch;_rv:11.0;_IEMobile/11.0;_NOKIA;_Lumia_520)_like_Gecko 20140902232401
+ContextAd_Bot_1.0 20140923111630
+AppEngine-Google;_(_http://code.google.com/appengine;_appid:_s~page-d) 20140923032551
+Riddler_(http://riddler.io/about.html) 20140904120605
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20140908091827
+wsr-agent/1.0 20140926090102
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 15
+SEOstats_2.1.0 20140926111127
+ContextAd_Bot_1.0 20140923111630
+Twitterbot/1.0 20140930221818
+WinInet_Test 20140927011856
+- 20140911095615
+PECL::HTTP/1.7.6_(PHP/5.3.3) 20140918013923
+AppEngine-Google;_(_http://code.google.com/appengine;_appid:_s~page-d) 20140923032551
+WordPress/4.0;_http://loopdijital.com/bilgin 20140929201028
+wscheck.com/1.0.0_(_http://wscheck.com/) 20140926111127
+WhatWeb/0.4.8-dev 20140923232138
+Riddler_(http://riddler.io/about.html) 20140904120605
+www.osaicbt.com/Nutch-2.2.1 20140917184713
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20140908091827
+BPImageWalker/2.0_(www.bdbrandprotect.com) 20140903104105
+wsr-agent/1.0 20140926090102
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 544 646
+From1 0 0
+From2 9 9
+From3 3030 29154
+From4 609 16563
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 9 9
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 142
+http://loopdijital.com/bilgin/wp-admin/theme-editor.php 479 640
+http://loopdijital.com/bilgin/ 475 3166
+http://loopdijital.com/bilgin/wp-admin/post.php 415 784
+http://loopdijital.com/bilgin/wp-admin/admin.php 153 266
+http://loopdijital.com/bilgin/wp-admin/nav-menus.php 115 115
+http://loopdijital.com/test/index.php 76 4297
+http://loopdijital.com/bilginsmm/index.html 75 2093
+http://loopdijital.com/test/uyelik.php 72 260
+http://loopdijital.com/bilgin/wp-content/themes/rigel/cache/combined.css 69 123
+http://loopdijital.com/bilginsmm/_layout/css/iconfontcustom/icon-font-custom.css 65 65
+http://loopdijital.com/bilginsmm/portfolio-3-columns.html 2 20
+http://t.co/oVuUqEHueK 1 1
+http://loopdijital.com/bilgin/hakkimizda/ 18 26
+http://loopdijital.com/bilginsmm/yillikucretliizin.php 0 40
+http://loopdijital.com/bilginsmm/blog.html 3 27
+http://loopdijital.com/bilginsmm/portfolio-4-columns.html 1 17
+http://loopdijital.com/bilgin/wp-content/themes/rigel/css/font-awesome.min.css 1 1
+http://loopdijital.com/bilginsmm/portfolio-item-3.html 0 3
+http://loopdijital.com/test/iletisim.php 2 32
+http://loopdijital.com/bilginsmm/hakkimizda.php 8 8
+http://loopdijital.com/bilgin/home-fullwidth-slider/ 3 12
+http://loopdijital.com/bilgin/apple-ios-vs-google-android-which-one-is-better/ 2 35
+http://loopdijital.com/test/uye1.php 2 2
+http://loopdijital.com/bilginsmm/blog-2.html 0 4
+http://loopdijital.com/bilginsmm/ 45 1784
+http://loopdijital.com/bilginsmm/testimonials.html 1 3
+http://loopdijital.com/bilginsmm/indexdeneme.php 6 1072
+https://www.facebook.com 1 1
+http://loopdijital.com/bilginsmm/full-width-page.html 1 1
+http://loopdijital.com/test/css/other.css 0 4
+http://loopdijital.com/bilginsmm/services.html 19 46
+http://loopdijital.com/bilginsmm/portfolio-classic.html 8 84
+http://loopdijital.com/bilginsmm/hesaplar.php 40 1480
+http://loopdijital.com/test/css/style.css 0 9
+http://loopdijital.com/bilgin/wp-admin/index.php 7 31
+http://loopdijital.com/bilginsmm/blog-post.html 0 8
+http://loopdijital.com/assets/fontastic/styles.css 27 27
+http://loopdijital.com/bilgin/wp-admin/load-styles.php 0 40
+http://loopdijital.com/bilginsmm/mevzuat.php 1 41
+http://loopdijital.com/bilgin/wp-admin/themes.php 30 68
+http://loopdijital.com/bilgin/wp-admin/options-general.php 5 5
+http://loopdijital.com/test/uye.php 7 43
+http://loopdijital.com/bilginsmm/iletisim.php 22 337
+http://loopdijital.com/bilginsmm/_layout/js/revolutionslider/css/settings.css 0 115
+http://loopdijital.com/bilginsmm/single-service.html 6 38
+https://www.facebook.com 21 21
+http://loopdijital.com/bilginsmm/tabs.html 1 1
+http://loopdijital.com/bilgin/contact-us/ 49 67
+http://loopdijital.com/bilgin/wp-admin/options-writing.php 3 3
+http://loopdijital.com/bilgin/wp-login.php 1 3
+http://loopdijital.com/bilgin/wp-admin/post-new.php 63 126
+http://loopdijital.com/test/hd.php 6 12
+http://loopdijital.com/bilgin/oh-audi-how-could-you-the-french-like-electric-cars-but/ 2 3
+http://loopdijital.com/bilgin/wp-admin/update-core.php 6 6
+http://loopdijital.com/bilgin/apple-leads-computer-makers-in-consumer-satisfaction/ 3 13
+http://loopdijital.com/test/galeri.php 10 122
+http://loopdijital.com/test/kariyer.php 2 102
+http://loopdijital.com/bilginsmm/custom-lists.html 1 1
+http://loopdijital.com/bilgin/9-must-have-travel-gadgets/ 1 12
+http://loopdijital.com/bilgin/wp-admin/theme-install.php 10 10
+http://loopdijital.com/bilgin/wp-content/themes/rigel/functions/skins/flat/green.css 0 17
+http://loopdijital.com/bilginsmm/asgari.php 2 97
+http://loopdijital.com/bilgin/wp-includes/js/tinymce/skins/lightgray/content.min.css 0 4
+http://loopdijital.com/bilginsmm/page-with-sidebar.html 1 1
+http://loopdijital.com/bilginsmm/forms.php 24 691
+http://loopdijital.com/bilgin/wp-admin/widgets.php 16 16
+http://loopdijital.com/assets/css/custom.css 0 126
+http://loopdijital.com/test/mh.php 2 257
+http://www.linkedin.com 1 1
+http://loopdijital.com/bilgin/wp-admin/options-reading.php 14 14
+http://loopdijital.com/bilginsmm/page-sections.html 1 1
+http://loopdijital.com/bilginsmm/milestones.html 1 1
+http://loopdijital.com/test/css/smoothDivScroll.css 6 19
+http://loopdijital.com/test/css/menubar.css 0 4
+http://loopdijital.com/bilgin/wp-admin/export.php 1 1
+http://loopdijital.com/bilginsmm/callout-box.html 1 1
+http://loopdijital.com/bilginsmm/social-media.html 1 1
+http://loopdijital.com/bilgin/wp-admin/customize.php 26 32
+http://loopdijital.com/bilginsmm/about-me.html 1 8
+http://loopdijital.com/bilgin/wp-admin/options-media.php 3 3
+http://loopdijital.com/bilgin/wp-admin/css/install.min.css 1 2
+http://m.facebook.com/l.php 1 1
+http://loopdijital.com/bilgin/wp-admin/upload.php 8 13
+http://loopdijital.com/bilgin/wp-admin/import.php 15 15
+http://loopdijital.com 41 2717
+http://loopdijital.com/bilgin/wp-admin/edit-comments.php 8 32
+http://loopdijital.com/bilgin/wp-admin/setup-config.php 4 9
+http://loopdijital.com/bilgin/hizmetlerimiz/ 10 17
+http://www.gloriaestetik.com/about.html 1 1
+http://loopdijital.com/bilginsmm/index.php 51 539
+https://www.bing.com/search 3 55
+http://loopdijital.com/bilgin/wp-admin/plugin-install.php 13 13
+https://m.facebook.com 4 4
+http://loopdijital.com/test/css/thumbnail_slider.css 0 6
+http://loopdijital.com/bilginsmm/about-us.html 1 13
+http://loopdijital.com/bilgin/wp-includes/js/mediaelement/mediaelementplayer.min.css 2 5
+https://www.linkedin.com 1 1
+http://loopdijital.com/bilginsmm/_layout/css/elements.css 0 151
+http://loopdijital.com/bilgin/wp-admin/install.php 2 7
+http://loopdijital.com/bilgin/pratik-bilgiler/ 18 32
+http://loopdijital.com/test/sss.php 0 1
+http://loopdijital.com/bilginsmm/asgarigecimindirimi.php 2 82
+http://loopdijital.com/bilgin/great-wall-of-customers-greets-iphone-4-in-china/ 3 21
+http://gloriaestetik.com/products.html 1 1
+http://loopdijital.com/bilginsmm/_layout/js/revolutionslider/css/custom.css 0 112
+http://loopdijital.com/bilgin/wp-admin/about.php 2 2
+http://loopdijital.com/bilgin/wp-admin/options-permalink.php 7 7
+http://loopdijital.com/test/evsahibi.php 3 47
+http://gloriaestetik.com/contact.html 1 1
+http://loopdijital.com/bilginsmm/animations.html 1 476
+http://loopdijital.com/bilgin/wp-content/themes/rigel/functions/colorpicker/css/colorpicker.css 0 3
+http://loopdijital.com/bilginsmm/_layout/css/layout.css 0 16
+http://loopdijital.com/bilgin/wp-admin/ 25 53
+http://loopdijital.com/bilgin/wp-admin/plugins.php 7 7
+http://loopdijital.com/test/haber.php 11 61
+http://loopdijital.com/bilginsmm/hakkimizda.html 21 649
+http://loopdijital.com/bilginsmm/_layout/css/fontawesome/font-awesome.min.css 65 65
+http://loopdijital.com/bilginsmm/icon-boxes.html 1 1
+http://l.facebook.com/l.php 4 4
+http://loopdijital.com/bilgin/wp-admin/update.php 14 14
+http://loopdijital.com/bilginsmm/portfolio-parallax.html 1 5
+http://gloriaestetik.com/index.html 1 1
+http://loopdijital.com/bilgin/wp-content/themes/rigel/js/fancybox/jquery.fancybox.admin.css 0 8
+http://loopdijital.com/bilginsmm/hizmetlerimiz.php 6 1126
+http://loopdijital.com/bilgin/wp-content/themes/rigel/functions/functions.css 0 6
+http://loopdijital.com 1 54
+http://loopdijital.com/bilginsmm/portfolio-slider.html 0 3
+http://loopdijital.com/bilginsmm/contact.html 8 52
+http://loopdijital.com/bilgin/mini-to-make-comeback-in-wrc-with-countryman-rally-car/ 1 2
+http://loopdijital.com/bilginsmm/pricing-data-tables.html 1 1
+http://loopdijital.com/test/urun.php 15 155
+http://loopdijital.com/bilgin/wp-admin/plugin-editor.php 2 2
+http://loopdijital.com/bilgin/wp-admin/edit.php 43 43
+http://loopdijital.com/bilgin/wp-admin/options-discussion.php 2 2
+http://loopdijital.com/bilgin/wp-admin/tools.php 5 5
+http://loopdijital.com/test/jvs/css/lightbox.css 0 12
+http://loopdijital.com/bilginsmm/process-builder.html 1 1
+http://loopdijital.com/test/saladmaster.php 15 393
+http://loopdijital.com/bilginsmm/_layout/js/bxslider/jquery.bxslider.css 0 9
+http://www.gloriaestetik.com/index.html 1 1
+http://loopdijital.com/test/sitemap.php 0 130
+http://loopdijital.com/test/ 32 2816
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+503 22 7106
+302 11596 12937507
+206 246 19248191
+500 8 8061
+404 165 3906572
+301 53 12044
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 39
+/bilgin/wp-content/uploads/2013/06/hoodie_4_back-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/poster_2_up-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/cd_1_flat-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/T_7_front-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/cd_4_flat-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/cd_5_flat-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/hoodie_7_back-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/Poster_1_flat-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/hoodie_3_front-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/cd_6_angle-300x300.jpg 7 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/hoodie_1_back-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/poster_3_up-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/hoodie_6_front-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/hoodie_4_front-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/hoodie_5_back-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/Poster_3_flat-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/T_7_back-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/poster_5_up-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/hoodie_6_back-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/hoodie_3_back-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/T_6_front-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/Poster_5_flat-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/Poster_2_flat-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/cd_6_flat-300x300.jpg 10 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/Poster_4_flat-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/T_6_back-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/cd_5_angle-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/poster_4_up-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/cd_3_angle-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/hoodie_7_front-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/cd_1_angle-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/hoodie_2_front-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/cd_2_angle-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/cd_4_angle-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/hoodie_1_front-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/hoodie_2_back-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/cd_3_flat-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/cd_2_flat-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+/bilgin/wp-content/uploads/2013/06/hoodie_5_front-300x300.jpg 4 http://loopdijital.com/bilgin/wp-admin/upload.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start of last visit date] - [Last page of last visit]
+# [Start of last visit date] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 134
+88.250.176.219 3477 33338 1082248756 20140930224939
+95.8.182.209 104 1714 9334161 20140929173519
+85.104.101.91 66 589 39247917 20140930121808
+78.171.254.240 50 1569 43809517 20140911235059
+88.251.87.99 21 170 13167788 20140917235158
+188.132.129.17 19 19 1 20140929201028
+78.171.216.137 18 416 10256922 20140911190154
+88.251.106.222 18 157 5974423 20140930010355
+78.180.81.88 16 320 23880731 20140911151006
+66.249.93.28 15 272 15281698 20140930190453
+88.253.60.125 2 53 4738767 20140909154256
+66.228.53.208 1 1 59585 20140926090102
+176.33.209.239 7 68 3001812 20140930012656
+37.154.148.3 3 81 387412 20140925140209
+78.188.20.132 9 215 19693057 20140917122549
+66.249.83.68 0 1 95463 
+5.47.164.222 4 122 2421099 20140917225134
+217.64.209.1 9 188 10800009 20140912135225
+5.47.184.141 3 68 5965858 20140913160929
+85.96.117.241 2 53 4738767 20140922224818
+69.58.178.58 6 6 378087 20140908091828
+212.252.168.236 3 56 5271095 20140902143950
+95.8.179.216 4 108 10362216 20140902214046
+158.106.67.179 0 20 2002676 
+198.148.27.29 2 2 120177 20140923111630
+78.171.190.197 7 117 6519159 20140912163656
+78.188.238.81 2 53 4945330 20140908021408
+46.196.117.130 3 95 5098782 20140924175530
+195.87.15.134 5 83 5950366 20140903114312
+188.58.93.10 2 55 5067258 20140928212416
+178.233.13.46 3 55 5263396 20140902232401
+5.47.195.242 2 54 4740495 20140913210425
+78.171.173.76 12 353 479267 20140903152558
+198.148.27.5 1 1 61256 20140906220045
+24.133.175.53 7 163 15046718 20140929120928
+95.8.152.22 3 55 2493300 20140926001640
+95.6.67.181 1 4 115174 20140904173235
+82.222.136.191 2 55 5067258 20140930221643
+92.45.123.146 12 220 18044936 20140930003732
+54.87.37.196 1 1 61256 20140904120605
+114.253.38.153 1 1 59585 20140923232138
+107.170.5.103 1 1 58921 20140916100520
+37.154.154.110 6 97 173023 20140930023157
+78.180.99.122 2 54 5212480 20140902234201
+78.171.202.113 1 54 25203 20140911180131
+151.250.14.251 2 53 4944428 20140903233937
+88.231.107.221 3 55 5035317 20140908012617
+198.199.123.18 2 59 5391590 20140903145929
+193.37.135.65 4 63 5852509 20140903172615
+78.188.140.223 2 53 4944428 20140903232734
+5.47.167.152 2 54 407807 20140908234428
+107.181.94.10 1 1 58921 20140917184713
+78.183.134.229 2 53 4738767 20140923111416
+176.33.193.237 13 142 5229684 20140917225257
+199.217.119.4 3 3 178755 20140926111127
+95.9.146.95 2 55 5067258 20140929175445
+157.55.39.6 1 1 3147 20140916105633
+157.55.39.234 2 2 122512 20140904083928
+107.178.214.175 1 1 61256 20140904073656
+88.243.141.127 2 54 5181108 20140903132404
+178.240.227.157 2 56 5068986 20140924232123
+78.171.203.58 6 245 129830 20140911181911
+212.174.86.100 7 136 9599045 20140910171042
+95.13.78.12 2 53 4944428 20140906214617
+85.107.165.223 2 54 4946156 20140904114112
+95.8.198.76 3 55 4828754 20140912014136
+95.8.199.140 2 71 582628 20140916213939
+78.171.238.230 4 57 5148716 20140908220733
+188.58.2.26 1 4 165308 20140903135831
+179.43.146.66 2 53 4944428 20140906003100
+5.47.210.212 1 1 0 20140914040601
+95.8.162.79 2 55 5067258 20140929130941
+95.7.183.210 2 53 4738767 20140910111724
+88.235.184.43 4 57 5130990 20140904211517
+194.0.130.10 8 110 9714304 20140915161501
+5.47.232.226 2 54 4946156 20140904211717
+176.33.221.91 10 200 17106687 20140912000757
+81.149.228.53 4 57 5130990 20140905130331
+198.148.27.12 1 1 61256 20140906222050
+95.8.213.7 14 181 7920471 20140929005152
+85.107.116.203 2 53 4945330 20140907232706
+78.176.46.152 6 110 9664096 20140912004139
+37.154.175.132 4 80 0 20140914002003
+78.171.171.126 3 162 151550 20140912203654
+150.70.173.38 1 1 63871 20140902144218
+212.65.157.246 2 54 5181108 20140903094331
+78.180.101.114 2 53 4944428 20140904121040
+82.199.64.68 2 2 77640 20140925210006
+78.171.66.226 1 17 688211 20140925100951
+81.214.253.92 4 58 5367670 20140902214858
+95.8.190.81 2 53 4738767 20140909185817
+78.171.204.5 2 59 5391509 20140903220117
+176.41.66.254 2 53 4944428 20140905123838
+150.70.173.44 1 1 63871 20140902143720
+78.179.96.63 2 55 5187090 20140903001702
+213.153.192.41 2 53 4944428 20140905171132
+88.238.41.157 2 53 4945330 20140907205317
+5.47.232.66 2 54 4740495 20140915174236
+178.240.155.25 2 55 5067258 20140924092146
+212.253.156.9 7 88 6187297 20140927135308
+176.33.199.245 2 53 4944428 20140905011557
+188.58.19.133 2 55 5067258 20140928212655
+95.8.187.1 4 63 2692673 20140928153919
+199.16.156.125 3 3 180664 20140930221818
+82.222.51.134 2 53 4944428 20140906125259
+85.103.39.240 1 37 1715675 20140906182657
+93.93.25.3 2 53 4738767 20140910173439
+188.58.16.10 5 101 7527671 20140903161839
+46.164.133.110 1 1 59585 20140927011856
+5.46.150.241 3 57 5399589 20140924084412
+37.154.180.147 2 54 5181108 20140903004308
+50.16.138.64 1 1 58921 20140909135617
+88.253.70.173 2 55 5067258 20140930214506
+66.249.81.28 3 3 177427 20140929225755
+110.34.195.178 2 2 120177 20140911095615
+78.173.210.10 2 54 5181108 20140903131128
+88.240.28.129 2 53 4945330 20140907233834
+82.222.141.109 1 45 2320658 20140906213453
+46.196.152.245 3 56 5410070 20140903012658
+37.154.151.14 2 54 4740495 20140909231451
+107.178.200.200 1 1 58921 20140923032551
+78.176.32.208 2 54 5181108 20140903094310
+176.219.170.75 2 55 5182836 20140902233758
+46.2.2.84 3 61 5488084 20140903193631
+77.79.98.226 2 32 262307 20140915104054
+78.171.240.113 11 298 422782 20140904123307
+78.171.136.151 4 219 166792 20140911175633
+72.52.82.142 1 1 0 20140918013923
+78.176.121.223 2 53 4944428 20140907003944
+78.173.28.118 4 86 9680709 20140928164634
+198.148.27.20 2 2 122512 20140906221251
+92.45.22.102 2 53 4945330 20140908105058
+81.215.217.22 4 57 5162514 20140904113914
+94.123.195.78 2 54 5181108 20140902125022
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 26
+20140902 22 442 41968543 9
+20140903 100 2407 129297557 25
+20140904 29 449 30737356 15
+20140905 12 219 20063658 5
+20140906 14 247 19237153 10
+20140907 34 843 41556499 9
+20140908 64 1460 126477827 9
+20140909 15 271 23991254 6
+20140910 13 302 24866716 5
+20140911 91 2673 69126597 12
+20140912 33 772 44023873 8
+20140913 9 228 20183887 4
+20140914 14 218 11920301 4
+20140915 1973 8386 194552854 9
+20140916 460 3589 90312380 14
+20140917 153 3883 315341920 10
+20140918 1 1 0 1
+20140922 2 53 4738767 1
+20140923 24 378 26380428 10
+20140924 21 425 27563747 6
+20140925 70 1364 27244504 6
+20140926 9 114 7798898 4
+20140927 28 314 15202622 6
+20140928 11 242 17460966 6
+20140929 570 10028 236090862 10
+20140930 420 7064 173541731 12
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 11
+5mn-15mn 13
+30s-2mn 18
+15mn-30mn 3
+2mn-5mn 21
+0s-30s 137
+30mn-1h 13
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 165
+/bilgin/wp-admin/admin-ajax.php 869 750895 0 0
+/bilginsmm/_layout/css/fontawesome/font/fontawesome-webfont.woff 264 15244320 0 3
+/bilginsmm/_layout/css/iconfontcustom/fonts/iconfontcustom.woff 264 54289144 0 7
+/bilgin/ 234 7984378 10 0
+/ 225 12649349 145 41
+/assets/fontastic/fonts/apex.woff 165 6548556 2 81
+/bilgin/wp-content/themes/rigel/templates/responsive-css.php 145 7102825 0 1
+/bilgin/wp-content/themes/rigel/templates/custom-css.php 145 1512362 0 1
+/bilgin/wp-content/themes/rigel/fonts/fontawesome-webfont.woff 143 3021376 0 3
+/bilginsmm/ 124 4865163 20 4
+/assets/bootstrap/fonts/glyphicons-halflings-regular.eot 2 40670 0 0
+/bilgin/wp-login.php 2 5396 0 0
+/bilgin/wp-admin/edit.php 17 2346783 0 0
+/bilgin/wp-content/themes/rigel/fonts/fontawesome-webfont.ttf 1 80652 0 0
+/bilgin/apple-ios-vs-google-android-which-one-is-better/ 2 54740 0 0
+/bilgin/wp-includes/js/mediaelement/bigplay.svg 1 1029 0 0
+/bilginsmm/hakkimizda.html 28 530383 2 2
+/bilgin/wp-admin/options-writing.php 3 254647 0 0
+/bilginsmm/pricing.html 1 48040 0 0
+/bilginsmm/about-us.html 1 73341 0 0
+/bilginsmm/blog-post.html 1 61812 0 0
+/bilginsmm/milestones.html 1 46766 0 0
+/bilgin/oh-audi-how-could-you-the-french-like-electric-cars-but/ 1 31173 0 0
+/bilgin/wp-admin/plugins.php 8 413374 0 0
+/bilgin/wp-admin/plugin-install.php 8 844415 0 0
+/bilginsmm/typography.html 1 45422 0 0
+/bilgin/wp-admin/setup-config.php 8 23987 0 0
+/bilgin/9-must-have-travel-gadgets/ 1 26379 0 0
+/bilginsmm/widgets.html 1 89670 0 0
+/bilgin/wp-admin/customize.php 9 1670954 0 0
+/test/sitemap.php 7 42391 0 0
+/test/saladmaster.php 19 187616 0 1
+/bilgin/wp-admin/nav-menus.php 40 8778961 0 0
+/bilgin/stranded-at-the-airport-dont-forget-rule-240/ 1 25667 0 0
+/bilginsmm/Download/other/SMMM-Kredi-Karti-ile-Odeme-Formu.doc 1 26624 0 0
+/bilgin/wp-admin/tools.php 4 257796 0 0
+/test/iletisim.php 12 54645 1 2
+/bilgin/wp-admin/widgets.php 12 1625534 0 0
+/bilginsmm/Download/other/MERSiS-Sunum.pptx 1 5972399 0 0
+/bilgin/wp-admin/edit-comments.php 2 212180 0 0
+/bilgin/the-best-ipad-apps/ 2 47396 0 2
+/bilginsmm/makale3.php 2 44281 0 0
+/bilgin/wp-admin/update-core.php 3 234045 0 0
+/bilgin/wp-admin/post.php 50 12357367 0 0
+/bilginsmm/_layout/css/fontawesome/font/fontawesome-webfont.ttf 1 141564 1 0
+/test/images/cursors/cursor_arrow_right.cur 37 12858 0 0
+/bilginsmm/asgari.php 10 110150 0 0
+/test/ 63 1211686 7 3
+/bilginsmm/faturasevkirsaliyesiirsaliyelifatura.php 1 108386 0 0
+/bilginsmm/portfolio-item-3.html 1 68481 0 0
+/bilginsmm/portfolio-3-columns.html 2 125814 0 0
+/bilgin/contact-us/ 7 123355 0 0
+/bilgin/wp-admin/upload.php 1 76962 0 0
+/bilginsmm/tabs.html 1 54195 0 0
+/bilgin/wp-admin/update.php 4 130687 0 0
+/bilginsmm/asgariucretyemekyardimi(2014).php 1 66630 0 1
+/saladmaster/saladmaster/index.aspx 2 7050 1 0
+/galleries/gallery-6.html 2 2226 0 2
+/bilginsmm/ihbartazminati.php 7 144643 0 0
+/bilginsmm/indexdeneme.php 24 982428 0 0
+/bilginsmm/contact.html 6 234740 0 0
+/bilginsmm/pratikbilgiler/asgarigecimindirimi(2014).php 17 242081 0 0
+/test/mh.php 13 98712 0 1
+/bilgin/pratik-bilgiler/ 8 132975 1 0
+/bilginsmm/pricing-data-tables.html 1 49882 0 0
+/bilginsmm/guncelkdvoranlari.php 4 377572 0 0
+/test/galeri.php 28 513836 2 2
+/test/haber.php 8 39118 0 1
+/bilgin/mini-to-make-comeback-in-wrc-with-countryman-rally-car/ 1 25764 0 0
+/bilgin/wp-admin/theme-editor.php 119 11014964 0 0
+/bilgin/wp-content/themes/rigel/templates/script-contact-form.php 9 11988 0 1
+/bilginsmm/animations.html 12 95802 1 1
+/bilgin/wp-admin/plugin-editor.php 2 217366 0 0
+/test/uyelik.php 15 142039 0 1
+/bilgin/wp-content/themes/rigel/cache/bigplay.svg 1 3482 0 0
+/bilginsmm/iletisim.php 18 404226 0 1
+/bilgin/wp-admin/post-new.php 5 938346 0 0
+/bilgin/wp-admin/import.php 13 914400 0 0
+/bilginsmm/portfolio-4-columns.html 1 77303 0 0
+/bilgin/wp-content/themes/rigel/cache/controls.svg 1 10344 0 0
+/bilginsmm/portfolio-parallax.html 1 52557 0 0
+/bilgin/wp-admin/upgrade.php 1 1 0 1
+/bilginsmm/makale1.php 9 192636 0 0
+/bilginsmm/yillikucretliizin.php 2 55718 0 0
+/bilginsmm/process-builder.html 1 56024 0 0
+/bilgin/college-football-mascot-wars/ 1 23626 0 0
+/saladmaster/saladmaster/sss.aspx 1 396 0 1
+/bilginsmm/full-width-page.html 1 46225 0 0
+/bilgin/wp-admin/themes.php 16 2008982 0 0
+/bilginsmm/Download/sgk/Belirli-Sureli-is-Sozlesmesi.xls 1 34816 0 0
+/galleries/gallery-1.html 16 17920 2 8
+/bilginsmm/single-service.html 9 511470 1 4
+/bilginsmm/index.php 59 2707931 1 2
+/test/uye.php 4 12891 1 1
+/bilginsmm/_layout/php/send.php 1 2 0 0
+/test/sss.php 1 7418 0 0
+/bilgin/wp-includes/js/mediaelement/controls.svg 1 10344 0 0
+/bilginsmm/hesaplar.php 38 922729 0 0
+/bilgin/apple-leads-computer-makers-in-consumer-satisfaction/ 1 33024 0 0
+/bilginsmm/hangiodemelerdenvergisgkkesilir.php 1 88917 0 0
+/bilgin/wp-admin/images/wordpress-logo.svg 2 3042 0 0
+/assets/fontastic/fonts/apex.eot 8 658304 0 3
+/bilgin/home-fullwidth-slider/ 2 39222 0 0
+/bilginsmm/hakkimizda.php 22 437128 0 0
+/bilgin/wp-admin/index.php 3 308571 0 0
+/bilginsmm/makale4.php 2 90125 0 0
+/bilgin/wp-includes/js/tinymce/wp-tinymce.php 16 2154656 0 0
+/bilgin/wp-admin/theme-install.php 2 66355 0 0
+/bilgin/wp-admin/options-general.php 5 542870 0 0
+/bilginsmm/Download/other/iSMMMO-Devir-Teslim-Tutanagi.doc 1 59392 0 0
+/test/hd.php 31 377145 0 0
+/bilginsmm/callout-box.html 1 46554 0 0
+/bilgin/wp-content/themes/rigel/templates/script-ppb-video-bg.php 6 7728 0 0
+/bilginsmm/social-media.html 1 55037 0 0
+/bilgin/wp-admin/async-upload.php 6 8723 0 0
+/bilgin/wp-admin/export.php 1 78795 0 0
+/galleries/gallery-2.html 8 9038 1 4
+/bilginsmm/about-me.html 1 66801 0 0
+/test/images/cursors/cursor_arrow_left.cur 37 12858 0 1
+/bilginsmm/asgarigecimindirimi.php 7 188965 0 0
+/bilginsmm/mevzuat.php 2 44503 0 0
+/test/uye1.php 1 3246 0 0
+/bilginsmm/blog-2.html 1 57473 0 1
+/bilginsmm/page-sections.html 1 47469 0 0
+/bilgin/wp-content/themes/rigel/templates/script-shortcode-map.php 14 2142 0 0
+/bilginsmm/portfolio-classic.html 10 499820 0 1
+/test/images/cursor_arrow_right.cur 3 4286 0 0
+/bilgin/wp-cron.php 18 0 10 9
+/bilginsmm/page-with-sidebar.html 2 94388 0 0
+/bilgin/wp-admin/options-reading.php 5 408328 0 0
+/bilgin/wp-admin/options-permalink.php 5 406114 0 0
+/test/images/cursor_arrow_left.cur 3 4286 0 0
+/assets/fontastic/fonts/apex.ttf 1 82136 0 1
+/bilgin/wp-admin/install.php 3 8233 0 0
+/bilginsmm/contact-2.html 1 49498 0 0
+/bilgin/wp-admin/load-scripts.php 96 9342096 0 0
+/test/kariyer.php 36 518025 0 0
+/bilginsmm/asgarigecimindirimi(2014).php 1 28743 0 0
+/bilginsmm/custom-lists.html 1 47523 0 0
+/test/index.php 102 1627232 3 5
+/bilginsmm/forms.php 22 1096395 1 0
+/bilginsmm/hizmetlerimiz.php 48 1228250 0 1
+/test/evsahibi.php 3 20762 0 0
+/bilginsmm/blog.html 4 223900 0 0
+/bilgin/10-most-precariously-placed-mountain-huts-on-earth/ 1 25636 0 0
+/bilginsmm/makale2.php 9 159558 0 0
+/bilginsmm/_layout/css/iconfontcustom/fonts/iconfontcustom.ttf 1 489376 0 0
+/bilgin/wp-admin/load-styles.php 37 3467287 0 0
+/bilgin/wp-admin/options-discussion.php 2 170864 0 0
+/bilginsmm/icon-boxes.html 3 180066 0 0
+/bilginsmm/haberler.php 5 83783 0 0
+/bilginsmm/google-maps.html 1 46999 0 0
+/assets/php/commentform.php 1 54 0 0
+/bilginsmm/portfolio-slider.html 1 46545 0 0
+/test/urun.php 23 151443 2 2
+/bilginsmm/services.html 4 270916 0 0
+/bilgin/hakkimizda/ 10 172395 0 0
+/bilgin/great-wall-of-customers-greets-iphone-4-in-china/ 2 60992 0 0
+/bilgin/wp-admin/options-media.php 3 232688 0 0
+/bilgin/wp-admin/ 9 820995 0 0
+/bilginsmm/testimonials.html 2 97802 0 0
+/bilgin/wp-admin/admin.php 68 22291785 0 0
+/galleries/gallery-3.html 11 12309 1 8
+/bilgin/hizmetlerimiz/ 11 244882 0 1
+/bilgin/wp-admin/about.php 1 78797 0 0
+END_SIDER

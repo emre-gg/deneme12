@@ -1,0 +1,386 @@
+AWSTATS DATA FILE 6.0 (build 1.704)
+# If you remove this file, all statistics for date 2014-06 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1837                
+POS_TIME 2482                
+POS_VISITOR 7186                
+POS_DAY 10213               
+POS_DOMAIN 3250                
+POS_LOGIN 3484                
+POS_ROBOT 3639                
+POS_WORMS 4011                
+POS_EMAILSENDER 4142                
+POS_EMAILRECEIVER 4285                
+POS_SESSION 10891               
+POS_SIDER 11099               
+POS_FILETYPES 4420                
+POS_OS 4628                
+POS_BROWSER 4750                
+POS_SCREENSIZE 4898                
+POS_UNKNOWNREFERER 4972                
+POS_UNKNOWNREFERERBROWSER 5527                
+POS_ORIGIN 5719                
+POS_SEREFERRALS 5863                
+POS_PAGEREFS 6018                
+POS_SEARCHWORDS 6564                
+POS_KEYWORDS 6716                
+POS_MISC 2172                
+POS_ERRORS 6775                
+POS_CLUSTER 3340                
+POS_SIDER_404 6877                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of old records - Nb of new records - Nb of corrupted - Nb of dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20140702040613 1 0 5599717678563
+FirstTime 20140604194438
+LastTime 20140630214240
+LastUpdate 20140702110025 1 0 0 0 0
+TotalVisits 102                 
+TotalUnique 70                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 75                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 9
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 1 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 102 1961 33715025 24 39 301713
+1 72 1476 22804011 5 23 167821
+2 50 1007 22549166 0 16 277180
+3 3 58 2882906 5 5 5792
+4 4 35 744553 2 2 9557
+5 3 16 237256 2 2 4727
+6 6 25 414495 13 14 34829
+7 0 0 0 1 17 282112
+8 3 3 5164 1 1 224
+9 0 0 0 7 11 118283
+10 2 28 524343 3 14 157054
+11 7 104 2023579 4 12 84437
+12 35 452 11276933 13 37 887518
+13 6 113 1094255 0 0 0
+14 49 986 10083563 6 6 1344
+15 14 165 3724239 4 5 7732
+16 11 81 1989936 0 0 0
+17 43 583 23078836 0 0 0
+18 82 1555 20456378 3 4 5612
+19 37 394 6690911 29 38 124939
+20 13 179 2714583 3 4 9332
+21 45 642 14713124 3 12 86240
+22 44 554 18597074 1 1 1903229
+23 51 744 17691421 2 11 86240
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 682 11161 218011751
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+googlebot 176 1728509 20140628211358 0 
+phantom 23 870458 20140626124523 0 
+msnbot 4 10328 20140621114849 0 
+robot 2 9694 20140614231815 0 
+crawl 2 5164 20140618181114 0 
+surveybot 1 4847 20140620063807 0 
+netcraft 1 4847 20140614042504 0 
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 3893 14316300 0 0
+png 1597 21262840 0 0
+php 3 6 0 0
+html 587 2212726 0 0
+js 3004 30500502 0 0
+jpg 1725 147291834 0 0
+gif 260 1426224 0 0
+svg 92 1001319 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 8
+macosx 750
+winme 1
+winlong 6
+winxp 449
+win2003 10
+winnt 9377
+Unknown 105
+linux 463
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 9
+msie6.0 4
+msie8.0 2
+mozilla 49
+msie7.0 14
+msie10.0 72
+msie9.0 4
+msie5.5 2
+Unknown 70
+safari 10944
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+- 20140626124540
+BlackBerry8520/5.0.0.681_Profile/MIDP-2.1_Configuration/CLDC-1.1_VendorID/180 20140609063139
+Mozilla/5.0_(compatible;_bingbot/2.0;__http://www.bing.com/bingbot.htm) 20140629084614
+Mozilla/6.0_(compatible) 20140626124518
+Mozilla/5.0_(compatible) 20140626124518
+Mozilla/5.0_(compatible;_aiHitBot/2.8;__http://endb-consolidated.aihit.com/) 20140614215024
+Mozilla/4.0_(compatible;_http://search.thunderstone.com/texis/websearch/about.html) 20140604235936
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+- 20140626124540
+BlackBerry8520/5.0.0.681_Profile/MIDP-2.1_Configuration/CLDC-1.1_VendorID/180 20140609063139
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 300 383
+From1 1 1
+From2 1 1
+From3 214 7545
+From4 166 3231
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 10
+http://loopdijital.com 69 4488
+http://loopdijital.com/about.html 58 814
+http://loopdijital.com/contact.html 30 912
+http://loopdijital.com/index.html 19 964
+http://loopdijital.com/services.html 17 170
+http://loopdijital.com/work.html 17 193
+http://loopdijital.com/administrator/index.php 1 1
+http://loopdijital.com/wp-login.php 1 1
+http://www.flychar.com 1 1
+http://mawords.com/loopdijital.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+302 63 14112
+206 2 1907956
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start of last visit date] - [Last page of last visit]
+# [Start of last visit date] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 75
+176.33.198.203 172 3616 64657996 20140612132950
+85.96.162.43 114 1948 35425532 20140610200809
+78.180.111.48 50 764 11073509 20140605145052
+95.8.166.226 45 726 4573899 20140606002918
+95.8.133.148 34 469 13140295 20140607010754
+78.171.130.110 22 391 4828033 20140614223356
+95.8.149.57 21 388 12320784 20140615040633
+88.234.8.168 19 441 2148116 20140611190328
+95.8.220.207 12 136 4847543 20140622225116
+66.249.93.117 10 135 4610381 20140625112019
+62.219.8.225 1 10 86016 20140626123857
+37.154.149.240 6 51 1069417 20140606223221
+37.154.155.40 4 49 1930400 20140606190943
+162.244.33.8 1 1 4847 20140627185600
+176.33.104.242 8 75 4798233 20140604220612
+78.180.103.48 3 50 1055981 20140612164411
+62.219.8.233 1 1 4847 20140626083134
+192.237.216.89 1 1 4847 20140614012327
+208.76.12.4 3 26 1149698 20140605153556
+5.46.141.23 2 2 641 20140604194633
+95.8.164.62 3 58 2882906 20140630035345
+198.186.192.44 6 6 28277 20140608062041
+95.8.143.24 3 67 9647 20140613002316
+176.109.195.139 2 2 634 20140619200136
+96.227.124.37 1 1 4847 20140625021555
+5.47.206.213 4 50 1935737 20140605214147
+95.8.166.96 9 109 4587172 20140604232827
+178.240.245.76 1 23 169602 20140622231757
+38.100.21.66 1 10 86016 20140614230001
+192.114.71.13 4 45 436692 20140626124539
+66.249.93.59 5 5 24235 20140630214240
+208.43.225.85 1 1 4847 20140613202849
+5.47.196.175 3 48 1750116 20140611161830
+144.76.34.109 1 1 4727 20140604232134
+23.226.237.239 1 1 4710 20140608123645
+88.253.255.128 4 65 3909631 20140613002910
+64.202.161.41 2 2 9694 20140624173019
+95.8.218.21 1 23 870458 20140615153803
+157.55.39.212 2 2 317 20140629084614
+188.57.54.143 0 1 267177 
+82.80.244.58 0 3 92229 
+157.55.32.149 2 2 5164 20140612193825
+78.180.137.117 2 51 315510 20140611130126
+37.154.181.174 4 34 924168 20140606015233
+95.8.145.53 4 97 905707 20140611001218
+23.22.149.5 1 1 4847 20140616150401
+188.3.53.59 3 44 160445 20140605204423
+208.43.251.182 1 1 4847 20140612041110
+206.183.1.74 2 9 201140 20140604235933
+188.121.41.88 3 3 14541 20140614164319
+82.80.234.137 0 2 210094 
+78.180.82.203 2 53 200831 20140609175622
+95.8.165.55 6 90 1572916 20140611183948
+5.47.140.143 7 64 2956584 20140604225630
+212.253.250.100 4 70 4120086 20140610230410
+199.188.100.86 1 17 282112 20140612143845
+77.92.128.2 5 5 1419 20140604195904
+199.80.59.175 1 1 4847 20140624181614
+78.180.129.166 4 50 525478 20140618154150
+78.180.227.2 9 116 6247756 20140606182937
+85.96.160.10 1 24 876440 20140617150803
+188.3.48.200 5 72 4060560 20140611232508
+5.47.169.141 5 137 829956 20140611185251
+5.47.208.26 6 93 2941439 20140608004959
+95.8.129.10 7 168 881192 20140612001953
+85.96.167.175 3 31 2006892 20140611122056
+46.4.48.68 1 1 4847 20140626104951
+199.80.59.174 1 1 4847 20140621024335
+82.80.244.52 0 2 185166 
+178.240.23.184 2 47 1044413 20140615211316
+82.145.46.102 3 19 304123 20140614215024
+88.234.1.228 1 27 519496 20140616101824
+82.80.244.57 0 1 3050 
+66.249.81.59 2 24 875305 20140624000434
+198.101.238.203 1 1 4847 20140613235548
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 26
+20140604 48 410 19012533 9
+20140605 86 1311 17841183 10
+20140606 63 831 16293209 8
+20140607 8 108 4840498 3
+20140608 4 35 9420 3
+20140609 3 73 591776 2
+20140610 133 2229 48398538 5
+20140611 228 4860 83272231 15
+20140612 17 230 3008974 8
+20140613 7 84 3919325 4
+20140614 30 424 5237560 5
+20140615 7 105 2654894 4
+20140616 2 28 524343 2
+20140617 1 24 876440 1
+20140618 4 50 525478 1
+20140619 1 1 317 1
+20140621 1 1 4847 1
+20140622 13 159 5017145 2
+20140623 2 24 875305 2
+20140624 4 4 19388 3
+20140625 4 41 1162795 3
+20140626 7 65 1022941 4
+20140627 2 2 9694 2
+20140628 1 1 4847 1
+20140629 2 2 317 1
+20140630 4 59 2887753 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 3
+5mn-15mn 12
+15mn-30mn 7
+2mn-5mn 5
+0s-30s 53
+30s-2mn 14
+30mn-1h 8
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 13
+/ 378 957144 81 56
+/contact.html 83 296998 5 15
+/fonts/Montserrat/Montserrat-Regular.svg 57 582880 0 5
+/about.html 55 478147 6 5
+/fonts/Montserrat/Montserrat-Bold.svg 35 418439 1 4
+/work.html 28 261903 1 5
+/services.html 24 209929 2 9
+/error404.html 13 4121 6 3
+/contact.php 3 6 0 0
+/project-image.html 3 2061 0 0
+/project-slider.html 1 902 0 0
+/project-video.html 1 812 0 0
+/project-youtube.html 1 709 0 0
+END_SIDER
